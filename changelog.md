@@ -1,3 +1,18 @@
+03-09-2024
+
+# Changelog
+
+- August security patch.
+- Synced latest source.
+- Switched to AOSPA hardware/xiaomi Dolby.
+- Added Apps lock.
+- Added unlimited GPhotos.
+- Safetynet passes by default.
+- Added themed icon in app drawer.
+
+
+
+
 14-04-2024
 
 # Changelog
